@@ -1,0 +1,48 @@
+html{
+  scroll-behavior: smooth;
+}
+/*navigation*/
+#navbar ul{
+  flex-direction:column;
+  top:20px;
+
+}
+
+/*home section*/
+#home{
+
+
+}
+#home{
+  font-size: 13px;
+}
+/*best selling section*/
+#best{
+  flex-direction: column;
+
+}
+#best .box{
+  left: 300px;
+
+}
+/*reccomendation*/
+#Recommendations{
+  flex-direction: column;
+
+}
+#Recommendations .box{
+  left:300px;
+
+}
+/*contact*/
+#contact-box form{
+  width: 80%;
+
+}
+.h-primary{
+  font-size: 26px;
+}
+.btn{
+  font-size: 13px;
+  padding: 4px 8px;
+}
